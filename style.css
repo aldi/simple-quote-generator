@@ -1,0 +1,23 @@
+﻿.titlos {
+	margin-top: 20px !important;
+}
+
+html {
+	overflow-y: hidden !important;
+	background-image: url('background.jpg') !important;
+/*	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover; 
+	background-size:cover; */
+	background-position:center;
+	background-repeat: no-repeat;
+}
+
+.card {
+	background-color: transparent !important;
+}
+
+a {
+	color: black !important;
+}
+
