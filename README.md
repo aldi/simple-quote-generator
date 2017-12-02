@@ -12,9 +12,6 @@
 <img src="screenshot.png"/>
 </br></br>
 
-<h2> PREVIEW </h2>
-</br>
-
 <h2> License </h2>
 
 Licensed under [MIT](LICENSE) by [aldi](https://aldiduzha.com).
